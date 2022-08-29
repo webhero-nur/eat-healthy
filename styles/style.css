@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    max-width: 1280px;
+    display: flex;
+    margin: 0 auto;
+}
+
+img {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.half-width {
+    width: 46%;
+    margin: 0 2%;
+    padding: 0 20px;
+}
+
+.button {
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    margin-top: 20px;
+    padding: 16px 40px;
+    border-radius: 32px;
+    background-image: linear-gradient(45deg, orange, tomato);
+}
+
+/* diet part design */
+.diet {
+    display: flex;
+    margin: 50px auto;
+}
+
+.diet-description {
+    margin-top: 40px;
+}
+
+.orange-color {
+    color: orange;
+}
+
+.diet-section-title {
+    color: #575757;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.color-828282 {
+    color: #828282;
+    margin: 20px 0;
+}
