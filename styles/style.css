@@ -129,6 +129,8 @@ img {
     margin: 20px 0 10px;
 }
 
+/* connection design */
+
 .connection {
     display: flex;
     justify-content: space-around;
@@ -136,4 +138,32 @@ img {
     margin: 50px 2% 0;
     box-shadow: 10px 10px 20px 20px #eaeaea;
     border-radius: 20px;
+}
+
+.card>h2 {
+    font-size: 50px;
+}
+
+/* footer design */
+footer {
+    margin-top: 100px;
+    padding: 50px 0 100px;
+    background-color: black;
+    text-align: center;
+}
+
+footer h3 {
+    color: #575757;
+    font-size: 25px;
+    padding-top: 35px;
+}
+
+footer h3 span {
+    padding: 0 5px;
+}
+
+.full-moto {
+    color: whitesmoke;
+    padding-top: 30px;
+    letter-spacing: 2px;
 }
