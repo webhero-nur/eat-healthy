@@ -37,7 +37,9 @@ img {
 /* header section design */
 #header {
     height: 750px;
-    background-image: url(../images/project-cover.png);
+    background-image: url(../images/backgroung-images/project-cover-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 #moto {
@@ -52,6 +54,9 @@ img {
     display: flex;
     margin: 50px auto;
     flex-direction: row;
+    background-image: url(../images/backgroung-images/skip-diet-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .diet-description {
