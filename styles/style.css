@@ -36,14 +36,14 @@ img {
 
 /* header section design */
 #header {
-    height: 750px;
+    height: 500px;
     background-image: url(../images/backgroung-images/project-cover-bg.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 #moto {
-    padding-top: 275px;
+    padding-top: 160px;
     color: whitesmoke;
     font-size: 100px;
     text-align: center;
